@@ -1,16 +1,19 @@
-hello atguigu! hello git!222Hot-Fix
+hello atguigu! hello git!222Hot-fix
 hello atguigu! hello git!333
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
+hello atguigu!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
+<<<<<<< HEAD
 hello
-hello atguigu
-hello atguigu! hello git!
+=======
+hello atguigu! hello     Hot-fixxxxx
+>>>>>>> hot-fix
